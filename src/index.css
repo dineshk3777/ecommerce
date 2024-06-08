@@ -1,0 +1,17 @@
+body{
+  background-color: black;
+  color: white;
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  background-color: blue;
+}
+
+.btn-btn-warning{
+  background-color: orange;
+  border-radius: 5px;
+}
